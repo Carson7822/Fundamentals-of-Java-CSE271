@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Book {
 	
-	String tite;
+	String title;
 	String author;
 	int numberOfPages;
 	boolean isFiction;
@@ -23,14 +23,13 @@ public class Book {
 		System.out.println("-------------------------------------------------------------------------------------");
 	}
 	
-	public Book(int PassedNumberOfPages, Boolean passedIsFiction, String passedAuthor, String passedTitle) {
+	public Book(int passedNumberOfPages, Boolean passedIsFiction, String passedAuthor, String passedTitle) {
 		displayBookInfo(PassedNumberOfPages, passedIsFiction, passedAuthor, passedTitle);
 	}
 	
 	
 	
 	public void describeBook(int passedNumberOfPages, Boolean passedIsFiction) {
-		int oddLinePrinter = 1;
 		if (passedNumberOfPages > 300) {
 			if (passedIsFiction) {
 				System.out.println("this is a detailed fiction book.");

@@ -1,6 +1,6 @@
 # Fundamentals of Java - CSE271
 
-A collection of coursework, programming exercises, and projects completed for CSE271: Fundamentals of Java at Miami University.
+Java coursework, programming exercises, and projects from CSE 271: Fundamentals of Java at Miami University.
 
 This repository contains java implementations and exercises covering object-oriented programming, inheritance, interfaces, collections, recursion, exception handling, file I/O, unit testing, and core Java language features.
 

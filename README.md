@@ -1,8 +1,8 @@
 # Fundamentals of Java - CSE271
 
-Java coursework, programming exercises, and projects from CSE 271: Fundamentals of Java at Miami University.
+Java coursework, programming exercises, and projects from CSE271: Fundamentals of Java at Miami University.
 
-This repository contains java implementations and exercises covering object-oriented programming, inheritance, interfaces, collections, recursion, exception handling, file I/O, unit testing, and core Java language features.
+This repository contains Java implementations and exercises covering object-oriented programming, inheritance, interfaces, collections, recursion, exception handling, file I/O, unit testing, and core Java language features.
 
 ## Topics & Concepts
 
@@ -58,7 +58,7 @@ Additional Java programming practice and experimentation.
 
 - **Abstract Classes** — Abstract classes and concrete implementations
 - **ArrayList** — Java collection fundamentals
-- **Class Members** — Static and instance
+- **Class Members** — Static and instance members
 - **Classes and Objects** — Object-oriented programming fundamentals
 - **Cloneable** — Object cloning
 - **Comparable** — Object comparison and ordering
